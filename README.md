@@ -2,14 +2,15 @@
 
 # Rumah Nikah
 
-**Rumah Nikah** adalah project web application yang dikembangkan untuk mengikuti event **Indonesia Digital Tribe** dan berhasil masuk 20 besar finalis.  
+**Rumah Nikah** adalah project web application yang dikembangkan untuk mengikuti event **Indonesia Digital Tribe** dan berhasil masuk 50 besar finalis.  
 Proyek ini bertujuan membantu digitalisasi layanan dan manajemen pernikahan agar lebih mudah, transparan, dan modern.
 
 ---
 
 ## 🏆 Pencapaian
-- Finalis **Top 2 Indonesia Digital Tribe**
-- [Lihat Sertifikat](./docs/TOP200.jpg)  
-- [Pengumuman Finalis](./docs/TOP500.jpg)
+- Finalis **Top 50 Indonesia Digital Tribe**
+- [Lihat announcement Top 50](./docs/TOP50.jpg)
+- [Lihat Sertifikat Top 200](./docs/TOP200.jpg)
+- [Lihat Sertifikat Top 500](./docs/TOP500.jpg)  
 
 ---
