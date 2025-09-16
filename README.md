@@ -9,6 +9,10 @@ Proyek ini bertujuan membantu digitalisasi layanan dan manajemen pernikahan agar
 
 ## 🏆 Pencapaian
 - Finalis **Top 50 Indonesia Digital Tribe**
+- [Lihat Skill Assessment Sertifikat Hacker](./docs/Hacker.jpg)
+- [Lihat Skill Assessment Sertifikat Hipster](./docs/Hispter.jpg)
+- [Lihat Skill Assessment Sertifikat Hustler](./docs/Hustler.jpg)
+  
 - [Lihat announcement Top 50](./docs/TOP50.jpg)
 - [Lihat Sertifikat Top 200](./docs/TOP200.jpg)
 - [Lihat Sertifikat Top 500](./docs/TOP500.jpg)  
