@@ -9,7 +9,7 @@ Proyek ini bertujuan membantu digitalisasi layanan dan manajemen pernikahan agar
 
 ## 🏆 Pencapaian
 - Finalis **Top 2 Indonesia Digital Tribe**
-- [Lihat Sertifikat](./docs/sertifikat.pdf)  
-- [Pengumuman Finalis](./docs/pengumuman.png)
+- [Lihat Sertifikat](./docs/TOP200.jpg)  
+- [Pengumuman Finalis](./docs/TOP500.jpg)
 
 ---
